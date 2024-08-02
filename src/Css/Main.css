@@ -1,0 +1,43 @@
+.main-div{
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px #474747ba;
+}
+.main-box2{
+    /* background-color: rgb(65, 45, 45); */
+}
+.Main-box{
+    display: flex;
+}
+.column1{
+    text-align: left;
+}
+.column2{
+    border: 1px solid rgb(125, 125, 125);
+    border-radius: 10px;
+    color: gray;
+}
+.box2{
+    width: 120px;
+    /* display: flex; */
+}
+.overall{
+    text-align: left;
+    color: rgb(93, 93, 93);
+}
+.box{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.box3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.image{
+    width: 100px;
+}
+.image img{
+    width: 100px;
+}
+.icon{
+    font-size: 10px;
+}
